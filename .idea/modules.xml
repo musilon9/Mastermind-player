@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mastermindsolver.iml" filepath="$PROJECT_DIR$/.idea/modules/mastermindsolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mastermindsolver_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mastermindsolver_main.iml" group="mastermindsolver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mastermindsolver_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mastermindsolver_test.iml" group="mastermindsolver" />
+    </modules>
+  </component>
+</project>
